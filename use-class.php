@@ -1,9 +1,8 @@
-<!DOCTYPE html>
 <html>
 <head>
 	<title></title>
 </head>
 <body>
-	<img src="ActivityDiagram.bmp">
+	<img src="use-case.png">
 </body>
 </html>
