@@ -4,6 +4,6 @@
 	<title></title>
 </head>
 <body>
-	<img src="">
+	<img src="ActivityDiagram.bmp">
 </body>
 </html>
